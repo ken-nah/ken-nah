@@ -1,6 +1,6 @@
 ### Hi there, I'm Ken Njogu - aka [Kennah][website] 👋
 
-## I love writing code! Living in Nairobi, Kenya and currently working at Tospay
+## Living in Nairobi, Kenya and currently working at Tospay
 
 - 🔭 I specialize in Javascript technologies ( React, React Native & Node Js)!
 - 🌱 I’m currently learning competitive coding 🤣
