@@ -26,6 +26,6 @@
 
 <br />
 
-[website]: https://njogu.tech
+[website]: https://njogu.dev
 [twitter]: https://twitter.com/kenny_njogu
 [linkedin]: https://linkedin.com/in/ken-njogu
