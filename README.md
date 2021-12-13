@@ -5,7 +5,7 @@
 - 🔭 I specialize in Javascript technologies ( React, React Native & Node Js)!
 - 🌱 I’m currently learning competitive coding 🤣
 - 📫 How to reach me: [@kenny_njogu](https://twitter.com/kenny_njogu) on Twitter
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and read books
 
 ### Connect with me:
